@@ -1,2 +1,2 @@
 # sketchpad
-Project for theodinproject.com
+Project for https://theodinproject.com
