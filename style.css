@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+
+.grid-container {
+    background-color: white;    
+    margin: 30px auto;
+    border-radius: 4px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.cell {
+    border: 1px solid whitesmoke;
+}
+
+
+#changeBtn {
+    margin-top: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: mediumslateblue;
+    text-decoration: none;
+    background-color: mediumslateblue;
+    color: whitesmoke;
+    font-family: sans-serif;
+    width: 200px;
+}
+#changeBtn:hover {
+    background-color: blueviolet;
+    color: white;
+}
